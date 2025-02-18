@@ -20,7 +20,7 @@ have you completed the following level of education: bachelor's degree?
 required
 yes
 no",Yes
-how many years of work experience do you have with c++?,1
+how many years of work experience do you have with c++?,2
 "how many years of computer games experience do you currently have?
 enter a whole number between 0 and 99",1
 "how many years of engineering experience do you currently have?
@@ -50,3 +50,8 @@ are you comfortable commuting to this job's location?
 required
 yes
 no",Yes
+Street Address,11709 skyway ave
+City,oklahoma city
+State or Province,Oklahoma
+Primary Phone Number,4056535201
+Country,united states

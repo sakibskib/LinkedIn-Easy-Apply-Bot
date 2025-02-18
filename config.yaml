@@ -1,36 +1,54 @@
-username: <username>
-password: <password>
-phone_number: <phone_number>
+username: sksakib85@yahoo.com #sakibskib.io@gmail.com
+password: hajMola69
+phone_number: 405-653-5201
 
 profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 
 
 positions:
-- Software Engineer
+- Software Developer
+- software engineer
+#- web developer
+#- front end developer
+# - IT
+# - IT Support
+# - IT Technician
+# - IT Specialist
+#- IT Manager
+# - Information Technology
+#- back end developer
+#- full stack developer
+
 
 
 locations:
-- Michigan
-- Remote
+- United States
+#- los angeles
+#- san francisco
+#- richmond
 
-salary: 60,000
-rate: 25
+salary: 70,000
+rate: 50
 # --------- Optional Parameters -------
 uploads:
-  Resume: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cv.pdf
-  Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
+  Resume: C:\TutorialHell\linkedin\LinkedIn-Easy-Apply-Bot\resume.pdf
+  #Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
   #Photo: # PATH TO photo
 
 
 output_filename:
-- /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv
+- C:\TutorialHell\linkedin\LinkedIn-Easy-Apply-Bot\out.csv
 
-# blacklist:
-# - # Company names you want to ignore
+blacklist:
+ - ACS Consultancy Services, Inc # Company names you want to ignore
+ - Beaconfire
+ - Dexian
+ - CyberCoders
+ - systems engineer
 
-experience_level:
+experience_level: 
   # - 1 # Entry level
-  # - 2 # Associate
+  - 2 # Associate
   # - 3 # Mid-Senior level
   # - 4 # Director
   # - 5 # Executive
