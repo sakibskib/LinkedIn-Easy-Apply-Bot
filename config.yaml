@@ -8,7 +8,7 @@ profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\G
 positions:
 - Software Developer
 - software engineer
-#- web developer
+- web developer
 #- front end developer
 # - IT
 # - IT Support
